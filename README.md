@@ -13,5 +13,7 @@
     - 7km-G5NR
     - SMAP L4
 
-
+## NASA-MERRA2
+- Documents
+    - [MERRA-2 README](documents/MERRA2.README.pdf)
 
