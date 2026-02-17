@@ -1,4 +1,8 @@
 How to download and process NASA MERRA2 data.
+
+Inline: $E=mc^2$
+
+Display:
 $$
-\int_0^1 x^2\,dx = \frac{1}{3}
+\mathrm{MAC}=\frac{\Delta C}{\Delta E}
 $$
