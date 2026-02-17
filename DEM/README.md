@@ -1,2 +1,2 @@
 # Digital elevation model (DEM) datasets
-## Shuttle Radar Topography Mission (SRTM) Global
+1. Shuttle Radar Topography Mission (SRTM) Global
