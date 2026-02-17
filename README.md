@@ -6,3 +6,4 @@
 
 GMAO [Products](https://gmao.gsfc.nasa.gov/gmao-products/): GEOS FP, GEOS IT, GEOS-CF, GEOS-S2S, [MERRA-2](https://gmao.gsfc.nasa.gov/gmao-products/merra-2/), 7km-G5NR, SMAP L4
 
+# Assets
