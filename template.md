@@ -1,4 +1,4 @@
-How to download and process NASA MERRA2 data.
+template
 
 Inline: $E=mc^2$
 
